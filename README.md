@@ -46,7 +46,7 @@ Manual meal delivery is error-prone, repetitive, and time-consuming. Existing ro
 - Wireless modular control achieving near real-time response
 - A scalable perception layer ready for integration into hospital UGV prototypes
 
-| Actual Height (cm) | Vanish Point | Calculated Height (cm) | Depth Height (cm) | Final Height (cm) | Error % | Angle from Camera (°) |
+| Actual Height (cm) | Vanish Point | Calculated Height (cm) | Depth Height (cm) | Final Height (cm) | Error % | Angle from Camera (deg) |
 | ------------------ | ------------ | ---------------------- | ----------------- | ----------------- | ------- | --------------------- |
 | 60                 | -20.48       | 63.5                   | 57.2              | 60.6              | 9.9     | 16.06                 |
 | 62                 | -39.79       | 79.0                   | 65.8              | 58.73             | 18.8    | 17.38                 |
